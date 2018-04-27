@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChoreTracker</string>
+    <string name="title_activity_reset_password">resetPassword</string>
+</resources>
